@@ -1,0 +1,7 @@
+@deva0143 ➜ /workspaces/mcino-Introduction-to-Git-and-GitHub (main) $ git merge bug-fix-typo
+Updating ad95b0a..16c0199
+Fast-forward
+ .github/forked repo | 338 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ README.md           |   1 +
+ 2 files changed, 339 insertions(+)
+ create mode 100644 .github/forked repo
